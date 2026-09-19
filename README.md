@@ -1,3 +1,20 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="swarupgoswami's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm swarup goswami</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
